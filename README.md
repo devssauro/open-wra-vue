@@ -1,4 +1,4 @@
-# v-seg-sim
+# Open WRA Vue
 
 ## Project setup
 ```
